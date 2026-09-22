@@ -17,9 +17,9 @@
 
 ### Overview
 
-NextCue is a lightweight Windows desktop companion designed to help turn large, overwhelming tasks into a clear sequence of small, actionable steps.
+NextCue is a lightweight Windows desktop companion for breaking large, overwhelming tasks into clear, actionable steps.
 
-Instead of showing the whole plan all the time, NextCue keeps the current step in focus and gives only a subtle preview of what comes next. It is designed for focused work on research, writing, planning, study, and other complex tasks.
+It is useful for work, study, research, writing, presentations, planning, and other complex projects. Instead of showing the whole plan all the time, NextCue keeps the current step in focus and gives only a subtle preview of what comes next.
 
 Ask ChatGPT or another GPT tool to break a task into numbered steps, then paste the result into NextCue. The plan becomes an editable task axis that emphasizes the current step and the next cue. GPT interaction is manual copy and paste; NextCue does not include built-in AI or OpenAI API integration.
 
@@ -88,7 +88,7 @@ Screenshots will be added shortly.
 
 NextCue 是一个轻量级 Windows 桌面助手，用于把庞大、难以启动的任务拆成清晰、可执行的小步骤。
 
-它不会一直把整座“任务大山”摆在眼前，而是把注意力集中在当前步骤，只轻量提示下一步。它适合研究、写作、规划、学习，以及其他需要逐步推进的复杂任务。
+适用于工作、学习、科研、写作、汇报准备、规划和其他复杂任务。它不会一直把整座“任务大山”摆在眼前，而是把注意力集中在当前步骤，只轻量提示下一步。
 
 你可以让 ChatGPT 或其他 GPT 工具先生成带编号的行动步骤，再把结果粘贴到 NextCue。NextCue 会将这些内容整理成可编辑的任务轴，帮助你一次只处理眼前的一步。目前 GPT 交互完全通过手动复制与粘贴完成，NextCue 不包含内置 AI，也不接入 OpenAI API。
 

@@ -397,7 +397,7 @@
                                      TextChanged="TaskTextBox_TextChanged" />
                             <TextBox x:Name="TaskPlaceholderText"
                                      AutomationProperties.AutomationId="TaskPlaceholderText"
-                                     Text="你现在想开始做什么？&#x0a;&#x0a;例如：&#x0a;根据已经读过的文献，开始修改我的博士研究计划。"
+                                     Text="你现在想开始做什么？&#x0a;&#x0a;例如：&#x0a;准备一场 10 分钟的汇报"
                                      IsReadOnly="True"
                                      IsTabStop="False"
                                      Focusable="False"
