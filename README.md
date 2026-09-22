@@ -153,6 +153,6 @@ NextCue v0.1.0 是一个处于早期阶段的个人开源版本。核心工作�
 
 ## License / 许可证
 
-This project is intended to be released under the MIT License. The license file will be added before the public release.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-本项目计划采用 MIT License。正式公开发布前将补充 MIT License 文件。
+本项目采用 MIT License 开源，详见 [LICENSE](LICENSE)。
