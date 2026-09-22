@@ -80,7 +80,29 @@ NextCue v0.1.0 is an early personal open-source release. The core workflow is fu
 
 ### Screenshots
 
-Screenshots will be added shortly.
+#### Compact Mode
+
+<img src="docs/screenshots/compact.png" alt="NextCue Compact Mode" width="240">
+
+A lightweight sidebar that keeps the current step in focus and quietly previews what comes next.
+
+#### Main Task View
+
+<img src="docs/screenshots/main.png" alt="NextCue main task view" width="360">
+
+Track the active plan, current progress, current step, and editable task axis.
+
+#### Editable Task Axis
+
+<img src="docs/screenshots/task-axis.png" alt="NextCue editable task axis" width="460">
+
+Reorder, edit, complete, insert, or remove steps as the plan changes.
+
+#### Statistics
+
+<img src="docs/screenshots/statistics.png" alt="NextCue statistics" width="360">
+
+Review recent activity and simple completion statistics.
 
 ## 简体中文
 
@@ -149,7 +171,29 @@ NextCue v0.1.0 是一个处于早期阶段的个人开源版本。核心工作�
 
 ### 截图
 
-截图将于近期补充。
+#### 收起模式
+
+<img src="docs/screenshots/compact.png" alt="NextCue 收起模式" width="240">
+
+以低干扰侧边栏的形式，只突出当前步骤，并轻量提示下一步。
+
+#### 主任务界面
+
+<img src="docs/screenshots/main.png" alt="NextCue 主任务界面" width="360">
+
+查看当前任务、完成进度、当前步骤与任务轴。
+
+#### 可编辑任务轴
+
+<img src="docs/screenshots/task-axis.png" alt="NextCue 可编辑任务轴" width="460">
+
+可拖拽排序、编辑、完成、插入或删除步骤，随时调整计划。
+
+#### 统计
+
+<img src="docs/screenshots/statistics.png" alt="NextCue 统计" width="360">
+
+查看近期任务与基础完成统计。
 
 ## License / 许可证
 
