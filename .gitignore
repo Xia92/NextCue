@@ -1,0 +1,25 @@
+.vs/
+bin/
+obj/
+artifacts/
+
+# Visual Studio and local project state
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pubxml.user
+
+# Build configurations and platform output
+Debug/
+Release/
+x64/
+x86/
+*.pdb
+*.cache
+
+# NextCue runtime data and local migration backups
+state.json
+config.json
+state.before-move.json
+state.backup-*.json
